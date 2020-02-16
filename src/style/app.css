@@ -1,0 +1,19 @@
+@font-face {
+  font-family: robots;
+  src: url(HUMANOIDSTRAIGHT.TTF);
+}
+
+.center {
+text-align: center;
+}
+
+.header {
+  margin-top: 3rem;
+  font-family: robots;
+  font-weight: 200;
+  font-size: 4rem;
+  color: rgb(8, 241, 152);
+  margin-bottom: 0rem;
+  text-shadow: 0rem 0rem 0.8rem rgb(113, 255, 243);
+}
+ 

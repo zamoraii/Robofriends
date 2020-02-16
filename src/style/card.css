@@ -1,0 +1,13 @@
+.card {
+  margin: 1rem 0.5rem;
+  padding: 2rem;
+  background-color: rgb(166, 227, 231);
+  border-radius: 2rem;
+  transition: 0.3s all;
+  max-height: 500px;
+  box-shadow: 0.5rem 0.5rem 1rem rgba(109, 109, 109, 0.301);
+}
+
+.card:hover {
+transform: scale(1.05);
+}

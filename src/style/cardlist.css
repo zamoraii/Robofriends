@@ -1,0 +1,7 @@
+.main{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  height: 100vh;
+}
